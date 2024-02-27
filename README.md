@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Mario
 
-Hi, I'm Mario
-an Italian Software Engineer with over 11+ years of hands-on experience.
-Passionate about crafting innovative solutions and staying at the forefront of technology trends. 
+an Italian Software Engineer with over 11+ years of hands-on experience. <br/>
+Passionate about crafting innovative solutions and staying at the forefront of technology trends. <br/><br/>
 Welcome to my GitHub profile!
 
 ## About Me
