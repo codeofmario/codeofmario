@@ -26,6 +26,5 @@ Welcome to my GitHub profile!
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mario-gjorgievski/)
-- [Twitter](https://twitter.com/codeofmario)
 - [Website/Blog](https://codeofmario.com)
 - [Email](mailto:info@codeofmario.com)
