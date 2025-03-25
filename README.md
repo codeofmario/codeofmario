@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 ## About Me
 
 - 🌱 I’m currently learning Large language models LLM.
-- 📫 How to reach me: [info@codeofmario.com](mailto:info@codeofmario.com).
+- 📫 How to reach me: [codeofmario@gmail.com](mailto:codeofmario@gmail.com).
 
 ## Skills
 
